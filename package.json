@@ -1,0 +1,29 @@
+{
+  "name": "codeart",
+  "version": "1.0.0",
+  "description": "Internal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yj1118/codeart-react.git"
+  },
+  "keywords": [
+    "codeart",
+    "react",
+    "material-ui"
+  ],
+  "author": "yj1118",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yj1118/codeart-react/issues"
+  },
+  "homepage": "https://github.com/yj1118/codeart-react#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.8.3",
+    "@material-ui/icons": "^4.5.1",
+    "react": "^16.12.0"
+  }
+}
